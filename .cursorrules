@@ -1,0 +1,8 @@
+```text
+# Глобальные правила проекта
+Всегда читай и следуй @SPEC.md перед генерацией или рефакторингом.
+Запрещено: pandas, numpy, click, typer, typer, hardcode путей/критериев.
+Разрешено: argparse, csv (stdlib), tabulate, pytest, dataclasses.
+Архитектура отчётов: Registry + Strategy. Новые отчёты добавляются только через @ReportRegistry.register.
+Структура файлов должна точно соответствовать дереву из SPEC.md.
+Код: type hints, PEP 8, обработка ошибок в stderr.
