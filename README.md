@@ -8,7 +8,7 @@ CLI-утилита на Python для анализа YouTube-метрик из C
 
 Демонстрация работы CLI pytest:
 
-![Демонстрация работы CLI pytest](assets/screen-cli-demo.png)
+![Демонстрация работы CLI pytest](assets/screen-cli-test-demo.png)
 
 
 ## Установка
