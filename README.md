@@ -2,6 +2,11 @@
 
 CLI-утилита на Python для анализа YouTube-метрик из CSV. Подробности — в [SPEC.md](SPEC.md).
 
+![Демонстрация работы CLI](assets/screen-cli-demo.png)
+
+![Демонстрация работы CLI pytest](assets/screen-cli-demo.png)
+
+
 ## Установка
 
 ```bash
